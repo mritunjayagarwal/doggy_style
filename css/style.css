@@ -8,6 +8,11 @@ body {
     font-family: "Montserrat", sans-serif;
     color: #fff;
     background: 000;
+    overflow: hidden;
+}
+
+section{
+    padding: 300px 0 0 0
 }
 
 .container {
@@ -102,7 +107,7 @@ img {
 }
 
 .btn-inverse {
-    background: #ffe115;
+    background: #d77f03;
     color: #0b0c22;
 }
 
