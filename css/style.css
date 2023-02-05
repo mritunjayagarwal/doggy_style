@@ -9,6 +9,7 @@ body {
     color: #fff;
     background: 000;
     overflow: hidden;
+    padding: 0 5px;
 }
 
 section{
@@ -107,7 +108,7 @@ img {
 }
 
 .btn-inverse {
-    background: #d77f03;
+    background: #F7931A;
     color: #0b0c22;
 }
 
